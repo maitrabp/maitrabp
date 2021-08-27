@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maitrabp
-- 🎓 I hold a Bachelor's in Software Engineering (Recent Grad) from University of Michigan - Dearborn. 
+- 🎓 I hold a Bachelor's in Software Engineering (Dec 2020) from University of Michigan - Dearborn. 
 - 👀 I’m interested in devloping meaningful open source softwares for public use.
 - 🌱 I’m currently learning big data, machine learning, analytics
 - 💞️ I’m looking to collaborate on open source solutions in Java (Spring), Angular, or Node.js (Express)
